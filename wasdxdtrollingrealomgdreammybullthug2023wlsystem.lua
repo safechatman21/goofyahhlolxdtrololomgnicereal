@@ -17,4 +17,5 @@ MVPWhitelist = {
 
 EliteWhitelist = {
     4632729483;
+    2823434956; --pew
 }
