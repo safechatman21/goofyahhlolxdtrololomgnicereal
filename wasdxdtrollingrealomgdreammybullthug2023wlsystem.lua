@@ -1,8 +1,8 @@
-local VIPWhitelist = {
+VIPWhitelist = {
     -- Add the user IDs of VIP 
 }
 
-local MVPWhitelist = {
+MVPWhitelist = {
     195179681;
     1419654389;
     2729773482;
@@ -15,6 +15,6 @@ local MVPWhitelist = {
     104770575;
 }
 
-local EliteWhitelist = {
+EliteWhitelist = {
     4632729483;
 }
