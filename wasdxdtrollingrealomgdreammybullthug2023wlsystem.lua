@@ -18,4 +18,5 @@ MVPWhitelist = {
 EliteWhitelist = {
     4632729483;
     2823434956; --pew
+    4639520789; --my testing alt
 }
