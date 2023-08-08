@@ -3,20 +3,20 @@ VIPWhitelist = {
 }
 
 MVPWhitelist = {
-    195179681;
-    1419654389;
-    2729773482;
-    4017627909;
-    1234062644;
-    770787680;
-    704272740;
-    3659417278;
-    2319188892;
-    104770575;
+    2729773482; --yk_ts
+    4017627909; --slitted WHO TF ARE THESE PPL CAM
+    1234062644; --v7u0
+    770787680; --moneylaundered
+    704272740; --soph4k2
+    3659417278; --justgotvoice
+    2319188892; --makepluh
+    104770575; --acquiredstacks?
 }
 
 EliteWhitelist = {
+    139444638; -- socket
     4632729483;
     2823434956; --pew
     4639520789; --my testing alt
+    4292830003; --synttax
 }
