@@ -16,6 +16,7 @@ MVPWhitelist = {
 EliteWhitelist = {
     139444638; -- socket
     4632729483;
+    1208657165;
     2823434956; --pew
     4639520789; --my testing alt
     4292830003; --synttax
