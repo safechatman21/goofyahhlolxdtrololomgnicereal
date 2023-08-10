@@ -3,7 +3,7 @@ VIPWhitelist = {
 }
 
 MVPWhitelist = {
-    608053304; - buyer UPTYHM
+    608053304; -- buyer UPTYHM
     2729773482; --yk_ts
     4017627909; --slitted WHO TF ARE THESE PPL CAM
     1234062644; --v7u0
