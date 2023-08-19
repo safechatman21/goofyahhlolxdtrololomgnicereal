@@ -13,6 +13,7 @@ MVPWhitelist = {
     3659417278; --justgotvoice
     2319188892; --makepluh
     104770575; --acquiredstacks?
+    2028036; --homie of soci6lly
 }
 
 EliteWhitelist = {
