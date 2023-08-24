@@ -14,6 +14,7 @@ MVPWhitelist = {
     2319188892; --makepluh
     104770575; --acquiredstacks?
     4286597839; --booster
+    3766281316; --booster qfl.
     
 }
 
