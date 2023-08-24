@@ -15,6 +15,7 @@ MVPWhitelist = {
     104770575; --acquiredstacks?
     4286597839; --booster
     3766281316; --booster qfl.
+    1188849447; --booster ilove
     
 }
 
@@ -22,6 +23,7 @@ EliteWhitelist = {
     139444638; -- socket
     4632729483;
     1208657165;
+    3354104299;
     2823434956; --pew
     4639520789; --my testing alt
     4292830003; --synttax
