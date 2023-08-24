@@ -13,6 +13,7 @@ MVPWhitelist = {
     3659417278; --justgotvoice
     2319188892; --makepluh
     104770575; --acquiredstacks?
+    4286597839; --booster
     
 }
 
