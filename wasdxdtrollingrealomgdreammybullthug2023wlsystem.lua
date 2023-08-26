@@ -28,5 +28,5 @@ EliteWhitelist = {
     4639520789; --my testing alt
     4292830003; --synttax
     2028036; --bro - SHEEESHHHHHHHH
-    1414978355: --beloved anthony
+    1414978355; --beloved anthony
 }
