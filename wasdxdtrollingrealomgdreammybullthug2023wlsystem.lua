@@ -12,6 +12,7 @@ MVPWhitelist = {
     704272740; --soph4k2
     3659417278; --justgotvoice
     2319188892; --makepluh
+    1565568713;  --free whitelist by YMXM
     104770575; --acquiredstacks?
     4286597839; --booster
     3766281316; --booster qfl.
@@ -29,4 +30,5 @@ EliteWhitelist = {
     4292830003; --synttax
     2028036; --bro - SHEEESHHHHHHHH
     1414978355; --beloved anthony
+    170447047; -- skid harun!?
 }
