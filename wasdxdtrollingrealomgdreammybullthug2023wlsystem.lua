@@ -17,6 +17,7 @@ MVPWhitelist = {
     4286597839; --booster
     3766281316; --booster qfl.
     1188849447; --booster ilove
+    223178421; --ambro
     
 }
 
