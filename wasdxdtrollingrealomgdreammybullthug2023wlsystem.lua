@@ -1,5 +1,5 @@
 VIPWhitelist = {
-    -- Add the user IDs of VIP 
+    115106502; --booster cute
 }
 
 MVPWhitelist = {
