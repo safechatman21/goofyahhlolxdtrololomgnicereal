@@ -1,5 +1,6 @@
 VIPWhitelist = {
     115106502; --booster cute
+    185357233;
 }
 
 MVPWhitelist = {
