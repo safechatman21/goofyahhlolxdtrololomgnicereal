@@ -6,6 +6,7 @@ VIPWhitelist = {
 
 MVPWhitelist = {
     280504764; -- 7figts
+    3609150517; --crit
     608053304; -- buyer UPTYHM
     2729773482; --yk_ts
     4017627909; --slitted WHO TF ARE THESE PPL CAM - bro idfk LOL
