@@ -35,4 +35,5 @@ EliteWhitelist = {
     2028036; --bro - SHEEESHHHHHHHH
     1414978355; --beloved anthony
     170447047; -- skid harun!?
+    4896002560; -- me
 }
