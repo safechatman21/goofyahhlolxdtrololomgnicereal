@@ -24,6 +24,7 @@ MVPWhitelist = {
     3766281316; --booster qfl.
     1188849447; --booster ilove
    4632729483; -- crit2.0
+    20087753; -- booster coco
     223178421; --ambro
     4866494644; -- zo
     277630318; -- zo 2
