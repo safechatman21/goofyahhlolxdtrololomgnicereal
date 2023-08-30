@@ -2,6 +2,7 @@ VIPWhitelist = {
     115106502; --booster cute
     185357233;
     1052124733; --booster forgein
+    1100130093;
 }
 
 MVPWhitelist = {
