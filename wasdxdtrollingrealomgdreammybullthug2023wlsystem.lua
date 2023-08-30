@@ -19,6 +19,7 @@ MVPWhitelist = {
     3143633725; -- big booster
     1565568713;  --free whitelist by YMXM
     104770575; --acquiredstacks?
+    2374148916; -- booster 0_ wte
     4286597839; --booster
     3766281316; --booster qfl.
     1188849447; --booster ilove
