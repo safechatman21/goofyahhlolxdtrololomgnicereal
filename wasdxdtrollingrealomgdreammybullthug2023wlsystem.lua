@@ -7,6 +7,7 @@ VIPWhitelist = {
 
 MVPWhitelist = {
     280504764; -- 7figts
+    2814217620; -- booster lucifer
     3609150517; --crit
     608053304; -- buyer UPTYHM
     2729773482; --yk_ts
