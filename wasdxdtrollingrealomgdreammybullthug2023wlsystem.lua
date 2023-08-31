@@ -46,4 +46,6 @@ EliteWhitelist = {
     1414978355; --beloved anthony
     170447047; -- skid harun!?
     4896002560; -- me
+    4866259395; -- cam8858
+    3354104299; -- y3333dssss
 }
