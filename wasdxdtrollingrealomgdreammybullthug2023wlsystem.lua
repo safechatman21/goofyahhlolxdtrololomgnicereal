@@ -1,4 +1,5 @@
 VIPWhitelist = {
+    4378647992;
     115106502; --booster cute
     185357233;
     1052124733; --booster forgein
