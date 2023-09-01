@@ -17,6 +17,7 @@ MVPWhitelist = {
     770787680; --moneylaundered
     704272740; --soph4k2
     3659417278; --justgotvoice
+    346025878;
     2319188892; --makepluh
     3143633725; -- big booster
     1565568713;  --free whitelist by YMXM
