@@ -8,6 +8,7 @@ VIPWhitelist = {
 }
 
 MVPWhitelist = {
+    2468409126; -- bought shirt moralobstruction aka .nhu
     280504764; -- 7figts
     4979233665; --booster ban
     2814217620; -- booster lucifer
