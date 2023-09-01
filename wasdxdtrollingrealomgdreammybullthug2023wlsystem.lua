@@ -4,6 +4,7 @@ VIPWhitelist = {
     1052124733; --booster forgein
     1100130093;
     346025878;
+    1967825554;
 }
 
 MVPWhitelist = {
