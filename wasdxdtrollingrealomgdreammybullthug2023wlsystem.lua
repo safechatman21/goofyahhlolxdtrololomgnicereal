@@ -9,6 +9,7 @@ VIPWhitelist = {
 }
 
 MVPWhitelist = {
+    414513829; -- boosted 1 time ricobetter
     4979233665; -- 014s 2 boosts
     2468409126; -- bought shirt moralobstruction aka .nhu
     280504764; -- 7figts
