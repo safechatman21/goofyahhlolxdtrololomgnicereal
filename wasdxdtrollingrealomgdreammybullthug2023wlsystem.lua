@@ -6,6 +6,7 @@ VIPWhitelist = {
     1100130093;
     346025878;
     1967825554;
+    102605219; --booster hellqat
 }
 
 MVPWhitelist = {
