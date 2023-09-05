@@ -10,12 +10,9 @@ VIPWhitelist = {
 }
 
 MVPWhitelist = {
-    414513829; -- boosted 1 time ricobetter
     4979233665; -- 014s 2 boosts
     2468409126; -- bought shirt moralobstruction aka .nhu
     280504764; -- 7figts
-    4979233665; --booster ban
-    2814217620; -- booster lucifer
     3609150517; --crit
     608053304; -- buyer UPTYHM
     2729773482; --yk_ts
