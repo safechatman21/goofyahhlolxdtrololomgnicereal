@@ -14,6 +14,7 @@ MVPWhitelist = {
     2468409126; -- bought shirt moralobstruction aka .nhu
     280504764; -- 7figts
     3609150517; --crit
+    1757405302; --kutegf booster
     608053304; -- buyer UPTYHM
     2729773482; --yk_ts
     254072083;
