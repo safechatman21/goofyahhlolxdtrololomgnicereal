@@ -6,7 +6,7 @@ VIPWhitelist = {
     1100130093;
     346025878;
     1967825554;
-    102605219; --booster hellqat
+
 }
 
 MVPWhitelist = {
@@ -55,5 +55,6 @@ EliteWhitelist = {
     170447047; -- skid harun!?
     4896002560; -- me
     4866259395; -- cam8858
+    102605219; --booster hellqat
     3354104299; -- y3333dssss
 }
