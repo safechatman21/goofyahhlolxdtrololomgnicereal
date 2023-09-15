@@ -59,4 +59,5 @@ EliteWhitelist = {
     4866259395; -- cam8858
     102605219; --booster hellqat
     3354104299; -- y3333dssss
+    4843905502; -- red (givaway guy) he gave me nitro so this is inf like i said in anncoemmtn oka?
 }
